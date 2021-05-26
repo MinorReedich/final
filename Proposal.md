@@ -11,7 +11,7 @@ coming together in order to explode.
 
 Existing demo of the Big Bang, to illustrate this point:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeUcjqqhNxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/LeUcjqqhNxM/0.jpg)](https://www.youtube.com/watch?v=LeUcjqqhNxM)
 
 ## Features
 
