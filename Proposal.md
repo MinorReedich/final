@@ -1,6 +1,6 @@
 # Project idea: the Big Bang
 
-Particles being sucked into a single point and exploding into planets
+Particles being sucked into a single point and exploding
 
 ## Uniqueness 
 
@@ -29,5 +29,10 @@ good-to-have, and stretch in the following way, respectively:
    
 ## Implementation details (data structures, algorithms etc...)
 
-I will be using particle systems and billboard shaders to acheive my desired result.
+I will be using particle systems and billboard shaders to acheive my desired result. 
+Some relevant algorithms would be: simple blending particles so they do not appear as 
+particles within a square billboard, and checking to see when the singularity occurs in order
+to change textures from particles to planets and create diversity of color. Additionally,
+randomizing whether the velocities will be positive or negative to "shoot" the particles 
+in different directions will be necessary.  
 
