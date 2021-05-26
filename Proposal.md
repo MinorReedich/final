@@ -11,7 +11,7 @@ coming together in order to explode.
 
 Existing demo of the Big Bang, to illustrate this point:
 
-[![Alt text](https://img.youtube.com/vi/LeUcjqqhNxM/0.jpg)](https://www.youtube.com/watch?v=LeUcjqqhNxM)
+[![Big Bang](https://img.youtube.com/vi/LeUcjqqhNxM/0.jpg)](https://www.youtube.com/watch?v=LeUcjqqhNxM)
 
 ## Features
 
@@ -29,5 +29,5 @@ good-to-have, and stretch in the following way, respectively:
    
 ## Implementation details (data structures, algorithms etc...)
 
-I will be using particle systems to acheive my desired result.
+I will be using particle systems and billboard shaders to acheive my desired result.
 
