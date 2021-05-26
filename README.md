@@ -21,5 +21,6 @@ To run the program from build, you would type
 final/build $ ../bin/confetti
 ```
 
-## Demo
+## Results
 
+![](bb.gif)
