@@ -1,4 +1,4 @@
-# Project Idea: The Big Bang
+# Project idea: the Big Bang
 
 Particles being sucked into a single point and exploding into planets
 
@@ -20,10 +20,10 @@ good-to-have, and stretch in the following way, respectively:
 
 2. Color change (start off with white particles which explode into colorful ones).
 
-3. Texture change (begin with particle texture and end up with planets at the singular
-   point onward.
+3. Texture change (begin with particle texture and end up with planets at the 
+   singular point onward.
    
 ## Implementation details (data structures, algorithms etc...)
 
-
+I will be using particle systems to acheive my desired result.
 
