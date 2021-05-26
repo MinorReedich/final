@@ -20,7 +20,7 @@ void Confetti::createParticles(int size)
     int rz = random();
     p.size = 0.25;
     p.pos = vec3(0);
-    p.color = vec4(random_float(), random_float(), random_float(), random_float());
+    p.color = vec4(1);
     p.vel = vec3(pow(-1,rx)*random_float(), pow(-1,ry)*random_float(), pow(-1,rz)*random_float());
     mParticles.push_back(p);
   }
@@ -58,5 +58,8 @@ void Confetti::update(float dt)
 
   if(mParticles[0].pos.x < 0.001 && mParticles[0].pos.x > -0.001 && change){
     mTexture = theRenderer.loadTexture("../textures/planet.png");
+    for(int i = 0; i<mParticles.size(); i++){
+      mParticles[i].color = vec4(random_float(), random_float(), random_float(), random_float()); 
+    }
   }
 }
