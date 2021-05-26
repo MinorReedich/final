@@ -105,7 +105,6 @@ int main(int argc, char** argv)
 
    float lastTime = glfwGetTime();
    int c = 0;
-   bool draw = false;
 
    while (!glfwWindowShouldClose(window))
    {
