@@ -23,4 +23,7 @@ good-to-have, and stretch in the following way, respectively:
 3. Texture change (begin with particle texture and end up with planets at the singular
    point onward.
    
+## Implementation details (data structures, algorithms etc...)
+
+
 
