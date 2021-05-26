@@ -5,9 +5,13 @@ Particles being sucked into a single point and exploding into planets
 ## Uniqueness 
 
 This demo will be unique from existing demos of explosions in that it 
-will implode using one texture and explode using another. This will not 
+will implode to a single point before exploding. This will not 
 be a static object exploding, as in many existing demos, but rather particles 
 coming together in order to explode. 
+
+Existing demo of the Big Bang, to illustrate this point:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeUcjqqhNxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Features
 
