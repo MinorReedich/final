@@ -25,7 +25,7 @@ good-to-have, and stretch in the following way, respectively:
 2. Color change (start off with white particles which explode into colorful ones).
 
 3. Texture change (begin with particle texture and end up with planets at the 
-   singular point onward.
+   singular point onward).
    
 ## Implementation details (data structures, algorithms etc...)
 
