@@ -23,10 +23,11 @@ final/build $ ../bin/confetti
 
 ## Algorithms etc...
 
-In order to achieve the implosion-singularity-explosion effect, 
+In order to achieve the implosion-singularity-explosion effects, 
 I created an explosion of particles, which I did not render, and after some time
 (I created a counter and made it run 300 times), I took the negation of 
-the velocities of all the particles to simulate a gravitational pull toward the origin.
+the velocities of all the particles to simulate a gravitational pull toward the origin. 
+(Note: this is the reason for which the first few seconds are a black screen).
 After the particles reached the sigularity, I simply allowed them to keep going in the 
 same direction (opposite to the initial hidden explosion). This caused the particles 
 to explode in other directions than that of which they were pulled in (in fact, the 
